@@ -1,0 +1,6 @@
+Pillow
+matplotlib
+colorthief
+icrawler
+google-cloud-storage
+pillow-heif
