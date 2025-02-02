@@ -20,7 +20,7 @@ This class depends on several libraries, including `PIL`, `ColorThief`, `icrawle
 Install **ImageArtificer** directly from GitHub:
 
 ```bash
-pip install git+https://github.com/south-bend-code-works/ImageArtificer.git
+pip install git+https://github.com/south-bend-code-works/image_artificer.git
 ```
 
 ---
